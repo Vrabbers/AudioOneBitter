@@ -1,0 +1,8 @@
+bin/
+obj/
+a.raw
+a.raw.new
+*.wav
+*.mp3
+.fake
+.ionide
